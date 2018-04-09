@@ -118,7 +118,7 @@ function test(){
 		function test() {
 		  console.log("notice the blank line before this function?");
 		}
-        ```
+        	```
 	代码效果见下：
 ```javascript
 function test() {
