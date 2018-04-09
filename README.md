@@ -87,7 +87,7 @@ GitHub Flavored Markdown(GFM) 是对Markdown语法的扩展，在Markdown语法�
 ### 行内代码
 ```markdown
 语法：
-	引用的代码前后各加一个反引号`（英文输入法下，Tab键上面那个键）
+	引用的代码前后各加一个反引号（英文输入法下，Tab键上面那个键）
 代码示例：
 	Use `git status` to list all new or modified files that haven't yet been committed.
 代码效果见下：
@@ -99,9 +99,9 @@ Use `git status` to list all new or modified files that haven't yet been
 		引用的代码块上下一行各加三个反引号`（英文输入法下，Tab键上面那个键）
 	代码示例：
 		```
-        function test() {
-          console.log("notice the blank line before this function?");
-        }
+		function test() {
+		  console.log("notice the blank line before this function?");
+		}
 		```
 	代码效果见下：
 ```
@@ -115,9 +115,9 @@ function test(){
 		引用的代码块上下一行各加三个反引号`，并在第一个三个反引号后加上语言标识符（如：javascript)。
 	代码示例：
 		```javascript
-        function test() {
-          console.log("notice the blank line before this function?");
-        }
+		function test() {
+		  console.log("notice the blank line before this function?");
+		}
         ```
 	代码效果见下：
 ```javascript
@@ -223,6 +223,6 @@ function test() {
 	:shipit:
 代码效果见下：
 ```
-:shipit:  
+:shipit:  
 附加：[点击查看表情代码查询表](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
